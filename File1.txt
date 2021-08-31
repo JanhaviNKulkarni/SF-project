@@ -1,2 +1,8 @@
-Welcome to Git
+Welcome to Git.
+
 Change -diff.
+
+Change diff.
+
+Change to fix bug2.
+
