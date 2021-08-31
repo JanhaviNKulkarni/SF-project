@@ -1,1 +1,3 @@
 Welcome to Git
+Change diff.
+Change to fix bug2
